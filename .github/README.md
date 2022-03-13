@@ -68,7 +68,7 @@ For more information on the technologies that power the Yukki Music Bot, check o
 
 
 ```console
-shikhar@MacBook~ $ git clone https://github.com/notreallyshikhar/YukkiMusicBot
+shikhar@MacBook~ $ git clone https://github.com/Dushsmanxroni/YukkiMusicBot
 shikhar@MacBook~ $ cd YukkiMusicBot
 shikhar@MacBook~ $ sudo bash setup
 ```
